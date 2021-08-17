@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Nếu em muốn tỏ tình với anh thì cứ nhắn tin cho anh nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://chat.zalo.me/
+    messLink: 'https://www.facebook.com/messages/t/100015835727350,
 }
